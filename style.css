@@ -1,6 +1,7 @@
 html {
-	font-family: Arial;
 }
 
-h1 {color: Red;
+h1 {
+	color: Red;
+	font-family: Arial;
 }
