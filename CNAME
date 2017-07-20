@@ -1,3 +1,1 @@
 www.msgcapitalcorp.com
-$ dig msgcapitalcorp.com +noall +answer
-> msgcapitalcorp.com.     3600    IN A     ns-cloud-d1.googledomains.com
