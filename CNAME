@@ -1,1 +1,3 @@
 www.msgcapitalcorp.com
+$ dig msgcapitalcorp.com +noall +answer
+> msgcapitalcorp.com. 
